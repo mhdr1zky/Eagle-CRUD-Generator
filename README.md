@@ -1,6 +1,5 @@
-### Garuda CRUD Generator
-Garuda CRUD Generator adalah CRUD Generator Untuk Framework Codeigniter 3, Library Datatables Serverside Untuk Menampilkan Data Dan Template AdminLTE.
-CRUD Generator Yang Saya Gunakan Adalah Harviacode Yang Sudah Dimodifikasi Agar Hasil Generate Filenya Sesuai Dengan AdminLTE.
+### Eagle CRUD Generator
+Crud Generator editale and Simple
 
 ### Cara Install & Setup
 1.silahkan clone atau download repository ini.<br>
@@ -36,3 +35,4 @@ Contoh : <br>
 ### Credit To : 
 1.[Harviacode ](http://harviacode.com/) <br>
 2.[AdminLTE](https://adminlte.io/)<br>
+3.[NurisAkbar](https://github.com/nurisakbar/Garuda-CRUD-Generator)<br>
